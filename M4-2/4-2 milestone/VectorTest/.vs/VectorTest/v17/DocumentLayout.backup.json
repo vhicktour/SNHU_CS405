@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\Documents\\SNHU Course_Work\\CS 405\\M4\\M4-2\\4-2 milestone\\VectorTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F23A761-2AA1-4235-A3C6-43E4EED37786}|VectorTest\\VectorTest.vcxproj|C:\\Users\\victo\\Documents\\SNHU Course_Work\\CS 405\\M4\\M4-2\\4-2 milestone\\VectorTest\\VectorTest\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8F23A761-2AA1-4235-A3C6-43E4EED37786}|VectorTest\\VectorTest.vcxproj|solutionrelative:VectorTest\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\Users\\victo\\Documents\\SNHU Course_Work\\CS 405\\M4\\M4-2\\4-2 milestone\\VectorTest\\VectorTest\\test.cpp",
+              "RelativeDocumentMoniker": "VectorTest\\test.cpp",
+              "ToolTip": "C:\\Users\\victo\\Documents\\SNHU Course_Work\\CS 405\\M4\\M4-2\\4-2 milestone\\VectorTest\\VectorTest\\test.cpp",
+              "RelativeToolTip": "VectorTest\\test.cpp",
+              "ViewState": "AgIAALYAAAAAAAAAAAAUwNkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T18:52:25.415Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

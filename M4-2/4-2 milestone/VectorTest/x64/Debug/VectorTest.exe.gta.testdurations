@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>C:\Users\victo\Documents\SNHU Course_Work\CS 405\M4\M4-2\4-2 milestone\VectorTest\x64\Debug\VectorTest.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="CollectionTest.CollectionSmartPointerIsNotNull" Duration="1" />
+    <TestDuration Test="CollectionTest.IsEmptyOnCreate" Duration="1" />
+    <TestDuration Test="CollectionTest.CanAddToEmptyVector" Duration="1" />
+    <TestDuration Test="CollectionTest.CanAddFiveValuesToVector" Duration="1" />
+    <TestDuration Test="CollectionTest.MaxSizeIsGreaterThanOrEqualToSize" Duration="1" />
+    <TestDuration Test="CollectionTest.CapacityIsGreaterThanOrEqualToSize" Duration="1" />
+    <TestDuration Test="CollectionTest.ResizingIncreasesCollection" Duration="1" />
+    <TestDuration Test="CollectionTest.ResizingDecreasesCollection" Duration="1" />
+    <TestDuration Test="CollectionTest.ResizingDecreasesToZero" Duration="1" />
+    <TestDuration Test="CollectionTest.ClearErasesCollection" Duration="1" />
+    <TestDuration Test="CollectionTest.EraseRemovesAllElements" Duration="1" />
+    <TestDuration Test="CollectionTest.ReserveIncreasesCapacity" Duration="1" />
+    <TestDuration Test="CollectionTest.AtThrowsOutOfRange" Duration="1" />
+    <TestDuration Test="CollectionTest.FrontReturnsFirstElement" Duration="1" />
+    <TestDuration Test="CollectionTest.FrontOnEmptyVectorThrows" Duration="0" />
+    <TestDuration Test="CollectionTest.AlwaysFail" Duration="1" />
+    <TestDuration Test="CollectionTest.MaxSizeTest" Duration="1" />
+    <TestDuration Test="CollectionTest.CapacityTest" Duration="1" />
+    <TestDuration Test="CollectionTest.ResizeIncreaseTest" Duration="1" />
+    <TestDuration Test="CollectionTest.ResizeDecreaseTest" Duration="1" />
+    <TestDuration Test="CollectionTest.ResizeToZeroTest" Duration="1" />
+    <TestDuration Test="CollectionTest.ClearTest" Duration="1" />
+    <TestDuration Test="CollectionTest.EraseTest" Duration="1" />
+    <TestDuration Test="CollectionTest.ReserveTest" Duration="1" />
+    <TestDuration Test="CollectionTest.AtOutOfRangeTest" Duration="1" />
+    <TestDuration Test="CollectionTest.BackElementTest" Duration="1" />
+    <TestDuration Test="CollectionTest.EmptyVectorAccessTest" Duration="1" />
+    <TestDuration Test="CollectionTest.MaxSizeShouldBeGreaterThanSize" Duration="1" />
+    <TestDuration Test="CollectionTest.CapacityShouldBeGreaterOrEqualToSize" Duration="1" />
+    <TestDuration Test="CollectionTest.ResizingToZeroEmptiesCollection" Duration="1" />
+    <TestDuration Test="CollectionTest.ClearRemovesAllElements" Duration="1" />
+    <TestDuration Test="CollectionTest.ReserveIncreasesCapacityOnly" Duration="1" />
+    <TestDuration Test="CollectionTest.AccessingOutOfRangeThrows" Duration="1" />
+    <TestDuration Test="CollectionTest.InsertingElementIncreasesSize" Duration="1" />
+    <TestDuration Test="CollectionTest.UsingInvalidIteratorShouldFail" Duration="0" />
+    <TestDuration Test="CollectionTest.InsertingAtFrontAddsElement" Duration="1" />
+    <TestDuration Test="CollectionTest.ReserveWithTooLargeSizeThrows" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>

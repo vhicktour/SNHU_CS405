@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  test.cpp
+C:\Users\victo\Documents\SNHU Course_Work\CS 405\M4\M4-2\4-2 milestone\VectorTest\VectorTest\test.cpp(17,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '/test.cpp')
+  
+C:\Users\victo\Documents\SNHU Course_Work\CS 405\M4\M4-2\4-2 milestone\VectorTest\VectorTest\test.cpp(200,5): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file '/test.cpp')
+  
+  VectorTest.vcxproj -> C:\Users\victo\Documents\SNHU Course_Work\CS 405\M4\M4-2\4-2 milestone\VectorTest\x64\Debug\VectorTest.exe
